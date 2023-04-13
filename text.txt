@@ -1,3 +1,4 @@
 add html text
 convert the css files
 telecast it 
+shrink now unitll the last requirements
